@@ -17,3 +17,26 @@ Lastly, the two Webby fonts are not monospaced, but may be useful for other purp
 
 ![Proggy Clean](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_clean.gif)
 
+![Proggy Clean CP](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_clean_cp.gif)
+
+![Proggy Clean SZ](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_clean_sz.gif)
+
+![Proggy Clean SZ BP](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_clean_sz_bp.gif)
+
+![Proggy Small](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_small.gif)
+
+![Proggy Square](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_square.gif)
+
+![Proggy Square BP](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_square_bp.gif)
+
+![Proggy Square SZ](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_square_sz.gif)
+
+![Proggy Tiny](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_tiny.gif)
+
+![Proggy Tiny BP](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_tiny_bp.gif)
+
+![Proggy Tiny SZ](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_proggy_tiny_sz.gif)
+
+![Proggy Webby Caps](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_webby_caps.gif)
+
+![Proggy Webby Small](https://raw.githubusercontent.com/bluescan/proggyfonts/master/images/example_webby_small.gif)
