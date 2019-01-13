@@ -1,7 +1,7 @@
 # Proggy Fonts
-Monospaced fonts for programming.
+Monospaced fonts for programming. This Github page is now the official home of the Proggy fonts.
 
-The proggy fonts are a set of fixed-width screen fonts that are designed for code listings. The fonts were optimized while coding in C or C++. For this reason, characters like the `*` are vertically centered as `*` usually means dereference or multiply, but never 'to the power of' like in Fortran.
+The fonts are a cset of fixed-width screen fonts that are designed for programming. They were optimized while coding in C or C++. For this reason, characters like the `*` are vertically centered as `*` usually means dereference or multiply, but never 'to the power of' like in Fortran.
 
 The {}s are centered horizontally (in case you align braces vertically), the zero looks different from the capital oh, and there is never any confusion between ells, ones, and eyes.
 
