@@ -13,7 +13,7 @@ New for 2019 is a vector (scalable) version of Proggy Clean Slashed-Zero. Proggy
 
 ![Proggy Vector](https://raw.githubusercontent.com/bluescan/proggyfonts/master/ProggyVector/ProggyVector_Sample.png)
 
-There is also a variant of Proggy Vector with crossed sevens and zeds. Proggy Crossed looks like this.
+There are also two variants of Proggy Vector. The first is Proggy Dotted. It is a conversion of Proggy Clean with the dotted zero. The second is Proggy Crossed with crossed sevens and zeds. Here is a screenshot:
 
 ![Proggy Crossed](https://raw.githubusercontent.com/bluescan/proggyfonts/master/ProggyCrossed/ProggyCrossed_Sample.png)
 
