@@ -37,7 +37,7 @@ These fonts will not benefit form having ClearType turned on. You're better off 
 
 Most fonts contain the Latin-1 character set (ISO 8859-1) except ProggyCleanCE.ttf which can be used for the Czech language (Latin-2). You can try it if the characters you want are missing and you were able to read English enough to understand this paragraph.
 
-Lastly, the two Webby fonts are not monospaced, but may be useful for other purposes like websites.
+The two Webby fonts are not monospaced, but may be useful for other purposes like websites.
 
 ![Proggy Clean](https://raw.githubusercontent.com/bluescan/proggyfonts/master/ProggyOriginal/images/example_proggy_clean.gif)
 
@@ -64,3 +64,17 @@ Lastly, the two Webby fonts are not monospaced, but may be useful for other purp
 ![Proggy Webby Caps](https://raw.githubusercontent.com/bluescan/proggyfonts/master/ProggyOriginal/images/example_webby_caps.gif)
 
 ![Proggy Webby Small](https://raw.githubusercontent.com/bluescan/proggyfonts/master/ProggyOriginal/images/example_webby_small.gif)
+
+# Contributions
+Contributed fonts that were hosted by the original proggyfonts site are found in the *Contributed* directory. The licences, if originally supplied, are inside the zip files.
+
+The contributed fonts include:
+* CGMono
+* CodingFontTobi
+* Crisp
+* Dina
+* Opti
+* PixelCarnageMono
+* ProggyOpti
+* Progsole
+* Speedy
