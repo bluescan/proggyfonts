@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: ProggyVector
-FullName: ProggyVector
-FamilyName: ProggyVector
+FontName: ProggyVectorDotted
+FullName: ProggyVectorDotted
+FamilyName: ProggyVectorDotted
 Weight: Book
 Copyright: Copyright (c) 2019, 2023 Tristan Grimmer\nCopyright (c) 2018 Source Foundry Authors\nCopyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\n\n
 Version: 1.1.7
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1697355633
-ModificationTime: 1697388575
+ModificationTime: 1697391540
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -77,7 +77,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "ProggyVector" "" "1.1.7" "" "Bitstream Vera is a trademark of Bitstream, Inc." "" "Tristan Grimmer" "A vector/scalable version of the Proggy Clean Slashed-Zero font." "https://github.com/bluescan/proggyfonts" "https://github.com/bluescan/proggyfonts" "The work in the ProggyVector project is Copyright 2019, 2023 Tristan Grimmer and licensed under the MIT License+AAoACgAA-The work in the Hack project is Copyright 2018 Source Foundry Authors and licensed under the MIT License+AAoACgAA-The work in the DejaVu project was committed to the public domain.+AAoACgAA-Bitstream Vera Sans Mono Copyright 2003 Bitstream Inc. and licensed under the Bitstream Vera License with Reserved Font Names +ACIA-Bitstream+ACIA and +ACIA-Vera+ACIACgAK-MIT LICENSE+AAoACgAA-Copyright (c) 2019, 2023 Tristan Grimmer+AAoA-Copyright (c) 2018 Source Foundry Authors+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the +ACIA-Software+ACIA), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoACgAA-THE SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoACgAA-BITSTREAM VERA LICENSE+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org.+AAoA" "https://opensource.org/licenses/MIT"
+LangName: 1033 "" "" "Regular" "ProggyVectorDotted" "" "1.1.7" "" "Bitstream Vera is a trademark of Bitstream, Inc." "" "Tristan Grimmer" "A vector/scalable version of the Proggy Clean font." "https://github.com/bluescan/proggyfonts" "https://github.com/bluescan/proggyfonts" "The work in the ProggyVector project is Copyright 2019, 2023 Tristan Grimmer and licensed under the MIT License+AAoACgAA-The work in the Hack project is Copyright 2018 Source Foundry Authors and licensed under the MIT License+AAoACgAA-The work in the DejaVu project was committed to the public domain.+AAoACgAA-Bitstream Vera Sans Mono Copyright 2003 Bitstream Inc. and licensed under the Bitstream Vera License with Reserved Font Names +ACIA-Bitstream+ACIA and +ACIA-Vera+ACIACgAK-MIT LICENSE+AAoACgAA-Copyright (c) 2019, 2023 Tristan Grimmer+AAoA-Copyright (c) 2018 Source Foundry Authors+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the +ACIA-Software+ACIA), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoACgAA-THE SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.+AAoACgAA-BITSTREAM VERA LICENSE+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org.+AAoA" "https://opensource.org/licenses/MIT"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -845,53 +845,61 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-489 79 m 0,0,1
- 459 33 459 33 413 10 c 0,2,3
- 368 -13 368 -13 308 -13 c 256,4,5
- 248 -13 248 -13 203 10 c 256,6,7
- 158 33 158 33 128 79 c 0,8,9
- 97 125 97 125 82 193 c 0,10,11
- 67 260 67 260 67 350 c 256,12,13
- 67 440 67 440 82 508 c 0,14,15
- 97 577 97 577 128 623 c 0,16,17
- 158 669 158 669 203 692 c 256,18,19
- 248 715 248 715 308 715 c 256,20,21
- 368 715 368 715 413 692 c 0,22,23
- 459 669 459 669 489 623 c 0,24,25
- 505 600 505 600 516 572 c 256,26,27
- 527 544 527 544 535 510 c 0,28,29
- 542 476 542 476 546 436 c 256,30,31
- 550 396 550 396 550 350 c 256,32,33
- 550 304 550 304 546 264 c 256,34,35
- 542 224 542 224 535 190 c 0,36,37
- 527 157 527 157 516 129 c 256,38,39
- 505 101 505 101 489 79 c 0,0,1
-167 247 m 1,40,41
- 230 326 230 326 293 404 c 256,42,43
- 356 482 356 482 419 560 c 1,44,45
- 402 597 402 597 374 614 c 0,46,47
- 346 632 346 632 308 632 c 256,48,49
- 270 632 270 632 242 614 c 0,50,51
- 214 597 214 597 196 560 c 0,52,53
- 187 543 187 543 180 521 c 0,54,55
- 174 499 174 499 169 472 c 256,56,57
- 164 445 164 445 161 412 c 0,58,59
- 159 380 159 380 159 342 c 0,60,61
- 159 318 159 318 161 294 c 256,62,63
- 163 270 163 270 167 247 c 1,40,41
-452 456 m 1,64,65
- 389 377 389 377 326 299 c 0,66,67
- 263 222 263 222 199 144 c 1,68,69
- 217 107 217 107 245 90 c 0,70,71
- 274 72 274 72 312 72 c 0,72,73
- 349 72 349 72 377 90 c 0,74,75
- 405 107 405 107 423 144 c 0,76,77
- 432 162 432 162 439 183 c 0,78,79
- 446 205 446 205 451 232 c 256,80,81
- 456 259 456 259 458 292 c 0,82,83
- 460 324 460 324 460 362 c 0,84,85
- 460 386 460 386 458 409 c 0,86,87
- 456 433 456 433 452 456 c 1,64,65
+358 300 m 4,0,1
+ 348 290 348 290 335 285 c 4,2,3
+ 323 280 323 280 307 280 c 4,4,5
+ 292 280 292 280 279 285 c 260,6,7
+ 266 290 266 290 256 300 c 4,8,9
+ 245 309 245 309 240 322 c 4,10,11
+ 236 335 236 335 236 351 c 4,12,13
+ 236 366 236 366 240 379 c 4,14,15
+ 245 392 245 392 256 402 c 4,16,17
+ 266 412 266 412 279 417 c 260,18,19
+ 292 422 292 422 307 422 c 4,20,21
+ 323 422 323 422 335 417 c 4,22,23
+ 348 412 348 412 358 402 c 4,24,25
+ 369 392 369 392 375 380 c 4,26,27
+ 380 367 380 367 380 351 c 260,28,29
+ 380 335 380 335 375 322 c 4,30,31
+ 369 309 369 309 358 300 c 4,0,1
+417 8 m 256,32,33
+ 393 -3 393 -3 366 -8 c 256,34,35
+ 339 -13 339 -13 308 -13 c 0,36,37
+ 245 -13 245 -13 198 9 c 256,38,39
+ 151 31 151 31 120 76 c 0,40,41
+ 89 120 89 120 74 189 c 0,42,43
+ 58 258 58 258 58 350 c 256,44,45
+ 58 442 58 442 74 511 c 256,46,47
+ 90 580 90 580 121 625 c 256,48,49
+ 152 670 152 670 199 692 c 0,50,51
+ 246 715 246 715 308 715 c 0,52,53
+ 339 715 339 715 366 709 c 0,54,55
+ 393 704 393 704 417 693 c 256,56,57
+ 441 682 441 682 461 665 c 256,58,59
+ 481 648 481 648 497 625 c 0,60,61
+ 527 579 527 579 543 511 c 0,62,63
+ 558 442 558 442 558 350 c 0,64,65
+ 558 259 558 259 543 190 c 0,66,67
+ 527 122 527 122 497 77 c 0,68,69
+ 481 53 481 53 461 36 c 256,70,71
+ 441 19 441 19 417 8 c 256,32,33
+198 130 m 0,72,73
+ 215 97 215 97 243 80 c 256,74,75
+ 271 63 271 63 308 63 c 0,76,77
+ 347 63 347 63 374 80 c 0,78,79
+ 402 97 402 97 419 130 c 0,80,81
+ 436 162 436 162 444 217 c 0,82,83
+ 453 272 453 272 453 350 c 0,84,85
+ 453 429 453 429 444 484 c 0,86,87
+ 436 539 436 539 419 571 c 0,88,89
+ 402 604 402 604 374 621 c 0,90,91
+ 347 637 347 637 308 637 c 0,92,93
+ 271 637 271 637 243 621 c 0,94,95
+ 215 604 215 604 198 571 c 256,96,97
+ 181 538 181 538 172 482 c 0,98,99
+ 164 427 164 427 164 350 c 0,100,101
+ 164 274 164 274 172 219 c 0,102,103
+ 181 164 181 164 198 130 c 0,72,73
 EndSplineSet
 Validated: 1
 EndChar
@@ -1461,23 +1469,23 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-362 130 m 4,0,1
- 352 120 352 120 339 115 c 4,2,3
- 326 111 326 111 310 111 c 4,4,5
- 295 111 295 111 282 115 c 4,6,7
- 270 120 270 120 260 130 c 260,8,9
- 250 140 250 140 245 153 c 4,10,11
- 239 166 239 166 239 181 c 4,12,13
- 239 197 239 197 244 210 c 4,14,15
- 249 222 249 222 260 232 c 260,16,17
- 271 242 271 242 283 247 c 4,18,19
- 296 252 296 252 311 252 c 4,20,21
- 327 252 327 252 340 247 c 260,22,23
- 353 242 353 242 363 232 c 4,24,25
- 374 222 374 222 379 210 c 4,26,27
- 384 197 384 197 384 181 c 4,28,29
- 384 166 384 166 379 153 c 4,30,31
- 373 140 373 140 362 130 c 4,0,1
+362 130 m 0,0,1
+ 352 120 352 120 339 115 c 0,2,3
+ 326 111 326 111 310 111 c 0,4,5
+ 295 111 295 111 282 115 c 0,6,7
+ 270 120 270 120 260 130 c 256,8,9
+ 250 140 250 140 245 153 c 0,10,11
+ 239 166 239 166 239 181 c 0,12,13
+ 239 197 239 197 244 210 c 0,14,15
+ 249 222 249 222 260 232 c 256,16,17
+ 271 242 271 242 283 247 c 0,18,19
+ 296 252 296 252 311 252 c 0,20,21
+ 327 252 327 252 340 247 c 256,22,23
+ 353 242 353 242 363 232 c 0,24,25
+ 374 222 374 222 379 210 c 0,26,27
+ 384 197 384 197 384 181 c 0,28,29
+ 384 166 384 166 379 153 c 0,30,31
+ 373 140 373 140 362 130 c 0,0,1
 363 456 m 4,32,33
  353 446 353 446 340 441 c 4,34,35
  328 436 328 436 312 436 c 4,36,37
@@ -7199,44 +7207,44 @@ SplineSet
  301 849 301 849 332 810 c 0,8,9
  364 772 364 772 382 749 c 1,10,11
  324 749 324 749 304 749 c 1,0,1
-417 8 m 256,12,13
- 393 -3 393 -3 366 -8 c 256,14,15
- 339 -13 339 -13 308 -13 c 0,16,17
- 245 -13 245 -13 198 9 c 256,18,19
- 151 31 151 31 120 76 c 0,20,21
- 89 120 89 120 74 189 c 0,22,23
- 58 258 58 258 58 350 c 256,24,25
- 58 442 58 442 74 511 c 256,26,27
- 90 580 90 580 121 625 c 256,28,29
- 152 670 152 670 199 692 c 0,30,31
- 246 715 246 715 308 715 c 0,32,33
- 339 715 339 715 366 709 c 0,34,35
- 393 704 393 704 417 693 c 256,36,37
- 441 682 441 682 461 665 c 256,38,39
- 481 648 481 648 497 625 c 0,40,41
- 527 579 527 579 543 511 c 0,42,43
- 558 442 558 442 558 350 c 0,44,45
- 558 259 558 259 543 190 c 0,46,47
- 527 122 527 122 497 77 c 0,48,49
- 481 53 481 53 461 36 c 256,50,51
- 441 19 441 19 417 8 c 256,12,13
-198 130 m 0,52,53
- 215 97 215 97 243 80 c 256,54,55
- 271 63 271 63 308 63 c 0,56,57
- 347 63 347 63 374 80 c 0,58,59
- 402 97 402 97 419 130 c 0,60,61
- 436 162 436 162 444 217 c 0,62,63
- 453 272 453 272 453 350 c 0,64,65
- 453 429 453 429 444 484 c 0,66,67
- 436 539 436 539 419 571 c 0,68,69
- 402 604 402 604 374 621 c 0,70,71
- 347 637 347 637 308 637 c 0,72,73
- 271 637 271 637 243 621 c 0,74,75
- 215 604 215 604 198 571 c 256,76,77
- 181 538 181 538 172 482 c 0,78,79
- 164 427 164 427 164 350 c 0,80,81
- 164 274 164 274 172 219 c 0,82,83
- 181 164 181 164 198 130 c 0,52,53
+417 8 m 260,12,13
+ 393 -3 393 -3 366 -8 c 260,14,15
+ 339 -13 339 -13 308 -13 c 4,16,17
+ 245 -13 245 -13 198 9 c 260,18,19
+ 151 31 151 31 120 76 c 4,20,21
+ 89 120 89 120 74 189 c 4,22,23
+ 58 258 58 258 58 350 c 260,24,25
+ 58 442 58 442 74 511 c 260,26,27
+ 90 580 90 580 121 625 c 260,28,29
+ 152 670 152 670 199 692 c 4,30,31
+ 246 715 246 715 308 715 c 4,32,33
+ 339 715 339 715 366 709 c 4,34,35
+ 393 704 393 704 417 693 c 260,36,37
+ 441 682 441 682 461 665 c 260,38,39
+ 481 648 481 648 497 625 c 4,40,41
+ 527 579 527 579 543 511 c 4,42,43
+ 558 442 558 442 558 350 c 4,44,45
+ 558 259 558 259 543 190 c 4,46,47
+ 527 122 527 122 497 77 c 4,48,49
+ 481 53 481 53 461 36 c 260,50,51
+ 441 19 441 19 417 8 c 260,12,13
+198 130 m 4,52,53
+ 215 97 215 97 243 80 c 260,54,55
+ 271 63 271 63 308 63 c 4,56,57
+ 347 63 347 63 374 80 c 4,58,59
+ 402 97 402 97 419 130 c 4,60,61
+ 436 162 436 162 444 217 c 4,62,63
+ 453 272 453 272 453 350 c 4,64,65
+ 453 429 453 429 444 484 c 4,66,67
+ 436 539 436 539 419 571 c 4,68,69
+ 402 604 402 604 374 621 c 4,70,71
+ 347 637 347 637 308 637 c 4,72,73
+ 271 637 271 637 243 621 c 4,74,75
+ 215 604 215 604 198 571 c 260,76,77
+ 181 538 181 538 172 482 c 4,78,79
+ 164 427 164 427 164 350 c 4,80,81
+ 164 274 164 274 172 219 c 4,82,83
+ 181 164 181 164 198 130 c 4,52,53
 EndSplineSet
 Validated: 1
 EndChar
