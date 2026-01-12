@@ -5,7 +5,7 @@ FamilyName: ProggyMatrix
 Weight: Regular
 Copyright: Copyright (c) 2026 Tristan Grimmer\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 UComments: "2026-1-9: Created with FontForge (http://fontforge.org)"
-Version: 0.1.0
+Version: 0.1.1
 ItalicAngle: 0
 UnderlinePosition: -128
 UnderlineWidth: 32
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1767956666
-ModificationTime: 1768189146
+ModificationTime: 1768201976
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 20 13
+WinInfo: 0 26 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -73,7 +73,7 @@ Grid
   Named: "X-height"
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 256 15
+BeginChars: 256 16
 
 StartChar: space
 Encoding: 32 32 0
@@ -485,6 +485,22 @@ SplineSet
  198 461 200 457 300 327 c 5
  371 419 393 451 446 521 c 5
  550 521 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 15
+Width: 600
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 -76 m 5
+ 0 0 l 5
+ 600 0 l 5
+ 600 -76 l 5
+ 0 -76 l 5
 EndSplineSet
 Validated: 1
 EndChar
