@@ -1,4 +1,4 @@
-ProggyMatrix is a cubic-spline font visually based on ProggyClean and ProggyVector. It is MIT-licensed. ProggyMatrix has fewer glyphs compared to ProggyVector but benefits from a clean MIT licence stack.
+ProggyMatrix is a cubic-spline font visually based on ProggyClean. It is MIT-licensed. ProggyMatrix will eventually have the full set of glyphs (like ProggyVector) but benefits from a clean MIT licence stack. ProggyMatrix is not expected to be useful or complete any time soon. It is the ultimate expression of work-in-progress. 
 
 Notes:
 * Created with FontForge. Version 20251009 as of 2026-01-11.
